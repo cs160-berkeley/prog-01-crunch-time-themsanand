@@ -11,5 +11,3 @@ Mukunda Satchidanand ([mukundas@berkeley.edu](mailto:mukundas@berkeley.edu))
 See [the demo for a walkthrough] (https://www.youtube.com/watch?v=qLay63XPgYE&feature=em-upload_owner)
 
 ## Screenshots
-
-<img src="screenshots/main.png" height="400" alt="Screenshot"/>
