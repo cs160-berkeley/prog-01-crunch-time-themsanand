@@ -1,5 +1,4 @@
-# Built application files
-*.ap_
+# Built application files are not ignored
 
 # Files for the Dalvik VM
 *.dex
