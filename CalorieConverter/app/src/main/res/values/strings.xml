@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">CalorieConverter</string>
+    <string name="edit_message">Reps/minutes</string>
+    <string name="button_calculate">Calculate</string>
+    <string name="action_settings">Settings</string>
+    <string name="reps">Reps</string>
+    <string name="minutes">Minutes</string>
+    <string name="redex1">Pushups</string>
+    <string name="redex2">Situps</string>
+    <string name="redex3">Jumping Jacks</string>
+    <string name="redex4">Jogging</string>
+    <string name="blex1">Squats</string>
+    <string name="blex2">Leg-lifts</string>
+    <string name="blex3">Planks</string>
+    <string name="blex4">Pullups</string>
+    <string name="blex5">Cycling</string>
+    <string name="blex6">Walking</string>
+    <string name="blex7">Swimming</string>
+    <string name="blex8">Stair-Climbing</string>
+    <string-array
+        name= "exercises">
+        <item>Pushups</item>
+        <item>Situps</item>
+        <item>Squats</item>
+        <item>Pullups</item>
+        <item>Jumping Jacks</item>
+        <item>Jogging</item>
+        <item>Leg-lifts</item>
+        <item>Planks</item>
+        <item>Cycling</item>
+        <item>Walking</item>
+        <item>Swimming</item>
+        <item>Stair-Climbing</item>
+    </string-array>
+
+</resources>
